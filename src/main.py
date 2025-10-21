@@ -8,8 +8,4 @@
 # Hours:        1.5
 ################################################################################
 
-from datetime import date
-
-print('Hello world!')
-
-print('Today is', date.today())
+import sys # for sys.exit(-1)
