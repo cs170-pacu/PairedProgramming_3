@@ -1,0 +1,8 @@
+Quiz1 10 Quiz2 10 Quiz3 10 Project1 40 Project2 50 Exam1 75 Exam2 80 FinalExam 100
+StudentID 1000 Quiz1 10 Quiz2 9 Quiz3 7 Exam1 72 Exam2 78 FinalExam 81 Project1 39 Project2 45
+StudentID 1001 Quiz2 8 Quiz1 9 Quiz3 8 Exam1 71 Exam2 75 FinalExam 91  Project1 35 Project2 47
+StudentID 1002 Quiz1 9 Quiz2 10 Quiz3 10 Exam1 75 Exam2 73 FinalExam 99  Project1 40 Project2 50
+StudentID 1003 Quiz1 5 Quiz3 6 Quiz2 8 Exam1 60 Exam2 67 FinalExam 78  Project1 33 Project2 43
+StudentID 1006 Quiz1 8 Quiz2 7 Quiz3 7 Exam1 74 Exam2 78 FinalExam 89  Project1 40 Project2 43
+StudentID 1007 Quiz1 7 Quiz3 9 Quiz2 8 Exam1 75 Exam2 80 FinalExam 99  Project1 40 Project2 42
+StudentID 1008 Quiz3 6 Quiz2 4 Quiz1 3 Exam1 65 Exam2 56 FinalExam 72  Project1 33 Project2 39
